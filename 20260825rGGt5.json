@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "8年感情，老公对我很好，但我好像已经不爱他了怎么办？",
+    "author": "缜餉僕",
+    "time": "2026年08月25日04时05分50秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "AI岗位招聘暴涨156%，年轻人吃肉，但女性、低学历很难分到蛋糕",
+  "description": "暑假提前刷题超前学习，中国教育报：别让“预制”消耗孩子鲜活生命力",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.ltkbj.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "分布式GPU智能算法深度研究2026年版（下）",
+    "description": "内容页的详细描述，可包含www.blog.ltkbj.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "靤觫埖"
+    },
+    "datePublished": "2026年08月25日04时05分50秒",
+    "dateModified": "2026年08月25日04时05分50秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "说句大实话，小米现阶段的困境，本质上就是饭圈文化的后遗症",
+      "url": "www.blog.ltkbj.cn/Article/details/069104.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "Project Trust 不是 Sandbox：Pi Agent 的安全边界怎样补齐",
+      "share_url": "www.blog.ltkbj.cn/Article/details/264959.sHtML"
+    },
+{
+      "platform": "HarmonyOS 圆角渲染优化实战：从「clip陷阱」到「borderRadius原生加速」的GPU调优方案",
+      "share_url": "www.blog.ltkbj.cn/Article/details/286686.sHtML"
+    },
+{
+      "platform": "海军中将赵晓哲院士被工程院“除名”",
+      "share_url": "www.blog.ltkbj.cn/Article/details/798568.sHtML"
+    },
+{
+      "platform": "怎样理解“人心中的成见是一座大山”？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/410532.sHtML"
+    },
+{
+      "platform": "22岁名校女生突然被"绑架"到700公里外 经历59天炼狱",
+      "share_url": "www.blog.ltkbj.cn/Article/details/134980.sHtML"
+    },
+{
+      "platform": "舞蹈区集体cos洛天依跳舞",
+      "share_url": "www.blog.ltkbj.cn/Article/details/145582.sHtML"
+    },
+{
+      "platform": "哈佛太平间盗卖遗体案和解",
+      "share_url": "www.blog.ltkbj.cn/Article/details/803985.sHtML"
+    },
+{
+      "platform": "如何评价《一人之下》第773(827）话预告？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/557510.sHtML"
+    },
+{
+      "platform": "【短视频】七夕快乐呀呀",
+      "share_url": "www.blog.ltkbj.cn/Article/details/317323.sHtML"
+    },
+    {
+      "platform": "宇树科技上市首日收涨 460%，盘中一度暴涨 629%，市值突破 4400 亿，如何评价其市场表现？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/943978.sHtML"
+    },
+{
+      "platform": "白衣男子疯狂挥拳挑衅，却被黑衣男子单手按倒击打",
+      "share_url": "www.blog.ltkbj.cn/Article/details/830190.sHtML"
+    },
+{
+      "platform": "【直播切片】小鸽子和小小白机器人一起打麻将",
+      "share_url": "www.blog.ltkbj.cn/Article/details/830828.sHtML"
+    },
+{
+      "platform": "矿山一面墙开采暗藏坍塌风险",
+      "share_url": "www.blog.ltkbj.cn/Article/details/267162.sHtML"
+    },
+{
+      "platform": "美国科研制度革命：创世纪计划与《科学：新黄金时代》解读",
+      "share_url": "www.blog.ltkbj.cn/Article/details/024276.sHtML"
+    },
+{
+      "platform": "弟弟称哥哥刚确诊癌症嫂子就提离婚",
+      "share_url": "www.blog.ltkbj.cn/Article/details/791930.sHtML"
+    },
+{
+      "platform": "Anthropic 评估 AI 风险上升, 暂不公开更强模型；刘炽平：微信将成为 AI 为先的生态系统；全网吐槽《牛来》票房逆袭",
+      "share_url": "www.blog.ltkbj.cn/Article/details/852246.sHtML"
+    },
+{
+      "platform": "哔哩哔哩国际版 Android 应用程序全新上线",
+      "share_url": "www.blog.ltkbj.cn/Article/details/561847.sHtML"
+    },
+{
+      "platform": "GPT-5.6 Sol暴涨三倍，OpenAI最强视觉AI登顶！",
+      "share_url": "www.blog.ltkbj.cn/Article/details/633760.sHtML"
+    },
+{
+      "platform": "体育生最爱！上海168元铜锅涮肉自助，到底能不能回本？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/723790.sHtML"
+    },
+    {
+      "platform": "性侵幼女、枪杀妻子，美国一曾任职警局红通逃犯潜逃来华，化身高校外教颇受欢迎，被学生在通缉令上认出，已被中国警方遣返回美",
+      "share_url": "www.blog.ltkbj.cn/Article/details/123989.sHtML"
+    },
+{
+      "platform": "有人让农民工也要交税",
+      "share_url": "www.blog.ltkbj.cn/Article/details/640251.sHtML"
+    },
+{
+      "platform": "抖音通报色情低俗治理成果：有黑产团伙打造“单亲妈妈交友”人设导流，29 人被抓",
+      "share_url": "www.blog.ltkbj.cn/Article/details/253675.sHtML"
+    },
+{
+      "platform": "跟着合唱派对七夕浪漫开唱",
+      "share_url": "www.blog.ltkbj.cn/Article/details/362804.sHtML"
+    },
+{
+      "platform": "韩国史上最恐怖连环杀人案《追击者》这样的地方恶魔只会越来越多",
+      "share_url": "www.blog.ltkbj.cn/Article/details/381586.sHtML"
+    },
+{
+      "platform": "Zookeeper - 分布式配置中心的搭建与实操实践",
+      "share_url": "www.blog.ltkbj.cn/Article/details/729753.sHtML"
+    },
+{
+      "platform": "饰品分享 | 最近的种草&常逛平价店铺",
+      "share_url": "www.blog.ltkbj.cn/Article/details/203733.sHtML"
+    },
+{
+      "platform": "工信部启动6G创新发展部省协同试点；国内首个Agent记忆榜单AML重磅出炉；中科院发布全球海洋智能预报大模型“琅琊”",
+      "share_url": "www.blog.ltkbj.cn/Article/details/583927.sHtML"
+    },
+{
+      "platform": "中国小伙越南见女友家长被海浪卷走失联 搜救多日无果",
+      "share_url": "www.blog.ltkbj.cn/Article/details/911823.sHtML"
+    },
+{
+      "platform": "广西一村庄为11名准大学生办升学礼",
+      "share_url": "www.blog.ltkbj.cn/Article/details/120910.sHtML"
+    },
+    {
+      "platform": "开启Benchmark的Harness时代：十五家学术机构联合发布HarnessEval",
+      "share_url": "www.blog.ltkbj.cn/Article/details/848593.sHtML"
+    },
+{
+      "platform": "落实省会引领：南昌，加速跑",
+      "share_url": "www.blog.ltkbj.cn/Article/details/902799.sHtML"
+    },
+{
+      "platform": "陈新武当选重庆市市长",
+      "share_url": "www.blog.ltkbj.cn/Article/details/413078.sHtML"
+    },
+{
+      "platform": "刚访华不久，美国会机构就嚷嚷：中国占尽优势，咱也得搞",
+      "share_url": "www.blog.ltkbj.cn/Article/details/154119.sHtML"
+    },
+{
+      "platform": "冷战核废墟变八吉瓦AI超级工厂！黄仁勋押十五亿，OpenAI独霸二十年",
+      "share_url": "www.blog.ltkbj.cn/Article/details/876444.sHtML"
+    },
+{
+      "platform": "报，国外晚上又是大涨。",
+      "share_url": "www.blog.ltkbj.cn/Article/details/974441.sHtML"
+    },
+{
+      "platform": "穆里尼奥：祝罗德里一切顺利，当然，也不要顺利过头了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/870675.sHtML"
+    },
+{
+      "platform": "中国金花遇乌龙事件",
+      "share_url": "www.blog.ltkbj.cn/Article/details/852215.sHtML"
+    },
+{
+      "platform": "美军舰南海断电4天：厕所不能用，空调不能用，美元也开始发臭了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/894793.sHtML"
+    },
+{
+      "platform": "18岁男子多次踢踹受惊海狮",
+      "share_url": "www.blog.ltkbj.cn/Article/details/490162.sHtML"
+    },
+    {
+      "platform": "国家医保局：首批158个基层病种实行“同病同付”，医保即时结算覆盖超九成定点机构",
+      "share_url": "www.blog.ltkbj.cn/Article/details/321101.sHtML"
+    },
+{
+      "platform": "为什么很多旅游城市并不富裕？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/909691.sHtML"
+    },
+{
+      "platform": "MyBatis 源码深度拆解（十一）：MyBatis 事务管理 & 与 Spring 整合原理",
+      "share_url": "www.blog.ltkbj.cn/Article/details/302975.sHtML"
+    },
+{
+      "platform": "千万别用手拍，最近很多人家里有！深圳曾有一男子被迫摘除眼球，“第二天就失明”",
+      "share_url": "www.blog.ltkbj.cn/Article/details/485263.sHtML"
+    },
+{
+      "platform": "公寓酒店月租万元走红，住客多为周边上班族",
+      "share_url": "www.blog.ltkbj.cn/Article/details/285647.sHtML"
+    },
+{
+      "platform": "胖东来招聘不包含性侵犯罪人员",
+      "share_url": "www.blog.ltkbj.cn/Article/details/373830.sHtML"
+    },
+{
+      "platform": "产出多部爆款电视剧的张若昀，为什么到了电影圈就不灵了？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/745332.sHtML"
+    },
+{
+      "platform": "DM 指定表的聚集索引：提升数据库查询性能的关键技术",
+      "share_url": "www.blog.ltkbj.cn/Article/details/119682.sHtML"
+    },
+{
+      "platform": "杭州通报“酒局猥亵案”：企业高管与公职人员被刑拘免职；多地婚姻登记处七夕不打烊；暑期档票房破100亿",
+      "share_url": "www.blog.ltkbj.cn/Article/details/177315.sHtML"
+    },
+{
+      "platform": "申花0-3国安后，一名身穿中国国家队武磊球衣的孩子与其父亲被极端申花球迷围住指责，你如何看待这件事情？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/914121.sHtML"
+    },
+    {
+      "platform": "一个不会游戏开发的人，用 AI 把一款小游戏做到上线了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/774330.sHtML"
+    },
+{
+      "platform": "多省份调整最低工资标准，不少人工资却不升反降，网友：国有国法，厂有厂规",
+      "share_url": "www.blog.ltkbj.cn/Article/details/191450.sHtML"
+    },
+{
+      "platform": "司法部发布公告 认定欧盟相关做法构成不当域外管辖",
+      "share_url": "www.blog.ltkbj.cn/Article/details/317067.sHtML"
+    },
+{
+      "platform": "PyTorch强化学习实战（22）——将强化学习应用于TextWorld互动小说游戏",
+      "share_url": "www.blog.ltkbj.cn/Article/details/328456.sHtML"
+    },
+{
+      "platform": "印尼强震靠手电接生",
+      "share_url": "www.blog.ltkbj.cn/Article/details/430892.sHtML"
+    },
+{
+      "platform": "12岁女孩语音交友打赏11万",
+      "share_url": "www.blog.ltkbj.cn/Article/details/751381.sHtML"
+    },
+{
+      "platform": "GPT新模型在OpenAI内网自建留言板！三个月聊了几十万条，一直没人发现",
+      "share_url": "www.blog.ltkbj.cn/Article/details/719833.sHtML"
+    },
+{
+      "platform": "成都在做，幸福在右，人间烟火，理想生活 | 2020成都最新版游记",
+      "share_url": "www.blog.ltkbj.cn/Article/details/798956.sHtML"
+    },
+{
+      "platform": "中信证券首日浮盈27亿，12家券商集体“下注”宇树科技，5家券商已入局长鑫科技",
+      "share_url": "www.blog.ltkbj.cn/Article/details/762811.sHtML"
+    },
+{
+      "platform": "“你在我眼中，我也在你眼中” | 绝对温柔的玫瑰领域《你在我眼中》",
+      "share_url": "www.blog.ltkbj.cn/Article/details/889082.sHtML"
+    },
+    {
+      "platform": "36岁老酒鬼喝早酒的快乐",
+      "share_url": "www.blog.ltkbj.cn/Article/details/381330.sHtML"
+    },
+{
+      "platform": "大学生一个月给多少生活费合适",
+      "share_url": "www.blog.ltkbj.cn/Article/details/026210.sHtML"
+    },
+{
+      "platform": "葛卫东朋友圈“喊话”坚定看多AI：我是相信没结束的",
+      "share_url": "www.blog.ltkbj.cn/Article/details/388232.sHtML"
+    },
+{
+      "platform": "唐山多家企业被卡用地审批？记者调查",
+      "share_url": "www.blog.ltkbj.cn/Article/details/288256.sHtML"
+    },
+{
+      "platform": "升学宴墙体倒塌事故亲历者：左边右边都遇难 来不及喊",
+      "share_url": "www.blog.ltkbj.cn/Article/details/011183.sHtML"
+    },
+{
+      "platform": "虹猫蓝兔写给90后00后的一封信",
+      "share_url": "www.blog.ltkbj.cn/Article/details/553171.sHtML"
+    },
+{
+      "platform": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+      "share_url": "www.blog.ltkbj.cn/Article/details/692954.sHtML"
+    },
+{
+      "platform": "当代版“洛阳纸贵”！广西日报王虹特稿《王的猜想》火了，一份报纸炒到65元",
+      "share_url": "www.blog.ltkbj.cn/Article/details/327957.sHtML"
+    },
+{
+      "platform": "教练啊，地上有一万你不捡啊",
+      "share_url": "www.blog.ltkbj.cn/Article/details/010581.sHtML"
+    },
+{
+      "platform": "手写模拟器-文本/docx 一键变逼真手写图片，告别手抄(2026.08.12更新）",
+      "share_url": "www.blog.ltkbj.cn/Article/details/154094.sHtML"
+    },
+    {
+      "platform": "企业 AI Agent 的真正门槛，不是模型能力，而是工作底座",
+      "share_url": "www.blog.ltkbj.cn/Article/details/456080.sHtML"
+    },
+{
+      "platform": "西部矿业2026年半年度营收394.43亿元，同比增长25%",
+      "share_url": "www.blog.ltkbj.cn/Article/details/317972.sHtML"
+    },
+{
+      "platform": "美国男子向AI透露奸杀计划被平台报警",
+      "share_url": "www.blog.ltkbj.cn/Article/details/905179.sHtML"
+    },
+{
+      "platform": "四月时，说预计下半年昇腾950超节点批量上市后，deepseek的价格会大幅下调，这个预计还算数吗？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/200563.sHtML"
+    },
+{
+      "platform": "奇耻大辱,我的网站被挂马,服务器已沦陷三个月",
+      "share_url": "www.blog.ltkbj.cn/Article/details/159713.sHtML"
+    },
+{
+      "platform": "就游了5分钟野泳，怎么就高烧、头疼、呕吐了？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/206516.sHtML"
+    },
+{
+      "platform": "实用汉字转拼音4.8 UI优化版",
+      "share_url": "www.blog.ltkbj.cn/Article/details/476986.sHtML"
+    },
+{
+      "platform": "泽连斯基启动军改能否扭转局势",
+      "share_url": "www.blog.ltkbj.cn/Article/details/543952.sHtML"
+    },
+{
+      "platform": "上海2026社保基数下限调整为7546元/月，平均工资首次突破12500元大关，哪些信息值得关注？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/549641.sHtML"
+    },
+{
+      "platform": "面向 Agent 的团队知识供给系统：架构设计与工程落地",
+      "share_url": "www.blog.ltkbj.cn/Article/details/398316.sHtML"
+    },
+    {
+      "platform": "上任仅半年，微软 AI 部门首席营销官安德烈娅 · 马拉德被曝即将离职",
+      "share_url": "www.blog.ltkbj.cn/Article/details/196626.sHtML"
+    },
+{
+      "platform": "LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高",
+      "share_url": "www.blog.ltkbj.cn/Article/details/996876.sHtML"
+    },
+{
+      "platform": "传销头目出狱后开办国学书院，家长被洗脑称孩子挨打才有效果",
+      "share_url": "www.blog.ltkbj.cn/Article/details/698792.sHtML"
+    },
+{
+      "platform": "我的前半生9年后为何又爆火",
+      "share_url": "www.blog.ltkbj.cn/Article/details/662311.sHtML"
+    },
+{
+      "platform": "瑞幸七夕联名引争议",
+      "share_url": "www.blog.ltkbj.cn/Article/details/598626.sHtML"
+    },
+{
+      "platform": "AI 满篇的“不是……而是……”，我开始不敢写了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/090799.sHtML"
+    },
+{
+      "platform": "用剩菜剩饭直接喂猪违法",
+      "share_url": "www.blog.ltkbj.cn/Article/details/136368.sHtML"
+    },
+{
+      "platform": "看懂银河通用，就读懂了具身智能的未来",
+      "share_url": "www.blog.ltkbj.cn/Article/details/679909.sHtML"
+    },
+{
+      "platform": "孙红雷空降刘宇宁直播间",
+      "share_url": "www.blog.ltkbj.cn/Article/details/658462.sHtML"
+    },
+{
+      "platform": "惠英红为拍戏拼到买不了保险",
+      "share_url": "www.blog.ltkbj.cn/Article/details/738804.sHtML"
+    },
+    {
+      "platform": "“七年之痒”夫妻七夕复婚“打嘴仗”",
+      "share_url": "www.blog.ltkbj.cn/Article/details/451540.sHtML"
+    },
+{
+      "platform": "“AI剧像喂猪一样 实在吃不下了”",
+      "share_url": "www.blog.ltkbj.cn/Article/details/787655.sHtML"
+    },
+{
+      "platform": "2000年、中国三江源自然保护区成立",
+      "share_url": "www.blog.ltkbj.cn/Article/details/685642.sHtML"
+    },
+{
+      "platform": "5分钟，看完《牛来》全剧情",
+      "share_url": "www.blog.ltkbj.cn/Article/details/894523.sHtML"
+    },
+{
+      "platform": "如果明清时间对换，明朝能不能避免我国近代的屈辱？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/418268.sHtML"
+    },
+{
+      "platform": "GitHub Actions 玩法大赏：一台远程主机的七种活法",
+      "share_url": "www.blog.ltkbj.cn/Article/details/486569.sHtML"
+    },
+{
+      "platform": "库珀无限接近与辽篮签约",
+      "share_url": "www.blog.ltkbj.cn/Article/details/089477.sHtML"
+    },
+{
+      "platform": "3 个月烧掉 105 亿，腾讯急了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/029611.sHtML"
+    },
+{
+      "platform": "1994年、量子化学家莱纳斯·卡尔·鲍林逝世",
+      "share_url": "www.blog.ltkbj.cn/Article/details/593957.sHtML"
+    },
+{
+      "platform": "山姆苹果干一包就是半个苹果",
+      "share_url": "www.blog.ltkbj.cn/Article/details/395681.sHtML"
+    },
+    {
+      "platform": "为什么你现在不发朋友圈了？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/713366.sHtML"
+    },
+{
+      "platform": "出狱前8天被改判死缓，最高检指导案例公布案件细节",
+      "share_url": "www.blog.ltkbj.cn/Article/details/302158.sHtML"
+    },
+{
+      "platform": "43.89万人次再创新高！第 23 届 ChinaJoy 圆满落幕",
+      "share_url": "www.blog.ltkbj.cn/Article/details/794640.sHtML"
+    },
+{
+      "platform": "奥运冠军李雪芮点评安洗莹：没什么进攻，但核心很强、防守好",
+      "share_url": "www.blog.ltkbj.cn/Article/details/309796.sHtML"
+    },
+{
+      "platform": "【高等几何 线性代数】正交矩阵、正交变换、齐次矩阵",
+      "share_url": "www.blog.ltkbj.cn/Article/details/938911.sHtML"
+    },
+{
+      "platform": "朱雀三号回收成功，如何看待蓝箭和 SpaceX 陆基回收路线的竞争？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/021262.sHtML"
+    },
+{
+      "platform": "孩童坐车道玩耍遭转弯车撞击",
+      "share_url": "www.blog.ltkbj.cn/Article/details/137361.sHtML"
+    },
+{
+      "platform": "情侣打官司争宠物狗",
+      "share_url": "www.blog.ltkbj.cn/Article/details/892440.sHtML"
+    },
+{
+      "platform": "韩国特检组追加起诉金建希涉官邸搬迁违规；李在明称任内完成战时指挥权移交",
+      "share_url": "www.blog.ltkbj.cn/Article/details/891403.sHtML"
+    },
+{
+      "platform": "七夕怎么可能和谁过都一样",
+      "share_url": "www.blog.ltkbj.cn/Article/details/135006.sHtML"
+    },
+    {
+      "platform": "深入理解TCP协议（一）：TCP报文格式详解",
+      "share_url": "www.blog.ltkbj.cn/Article/details/425634.sHtML"
+    },
+{
+      "platform": "章子怡，投资230万套现3个亿",
+      "share_url": "www.blog.ltkbj.cn/Article/details/142694.sHtML"
+    },
+{
+      "platform": "享界G9自适应上锁实测首曝，各种复杂路况脱困无压力！",
+      "share_url": "www.blog.ltkbj.cn/Article/details/108099.sHtML"
+    },
+{
+      "platform": "马上评｜合力铲除滋生假名人的社会土壤",
+      "share_url": "www.blog.ltkbj.cn/Article/details/961372.sHtML"
+    },
+{
+      "platform": "人们把地球的历史埋在南极，因为在气候变暖中，这里是最后融化的地方",
+      "share_url": "www.blog.ltkbj.cn/Article/details/398652.sHtML"
+    },
+{
+      "platform": "博主：乌军或用新招打击莫斯科",
+      "share_url": "www.blog.ltkbj.cn/Article/details/211969.sHtML"
+    },
+{
+      "platform": "独自拥有的那些瞬间",
+      "share_url": "www.blog.ltkbj.cn/Article/details/556766.sHtML"
+    },
+{
+      "platform": "鸻鸻鹬鹬的秋迁序曲",
+      "share_url": "www.blog.ltkbj.cn/Article/details/525943.sHtML"
+    },
+{
+      "platform": "985大学，扎堆开在县城里",
+      "share_url": "www.blog.ltkbj.cn/Article/details/721665.sHtML"
+    },
+{
+      "platform": "转转回收 RTX5090 仅报 1.3 万元引网友热议，二手平台定价是否合理？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/499903.sHtML"
+    },
+    {
+      "platform": "为什么有钱人都喜欢往漂亮国跑？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/085580.sHtML"
+    },
+{
+      "platform": "突发！OpenAI停止强化学习训练两周",
+      "share_url": "www.blog.ltkbj.cn/Article/details/797304.sHtML"
+    },
+{
+      "platform": "AI Agent 都在疯狂加功能，它说：我全砍了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/357567.sHtML"
+    },
+{
+      "platform": "蛋仔沈昭礼温组合技转场",
+      "share_url": "www.blog.ltkbj.cn/Article/details/141179.sHtML"
+    },
+{
+      "platform": "王者牛魔玩法升级爆料",
+      "share_url": "www.blog.ltkbj.cn/Article/details/415667.sHtML"
+    },
+{
+      "platform": "星铁知更鸟晴歌综合测评",
+      "share_url": "www.blog.ltkbj.cn/Article/details/479628.sHtML"
+    },
+{
+      "platform": "国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，2030年国内油气供应量目标4.4亿吨油当量",
+      "share_url": "www.blog.ltkbj.cn/Article/details/223057.sHtML"
+    },
+{
+      "platform": "马来西亚总理强调台湾属于中国",
+      "share_url": "www.blog.ltkbj.cn/Article/details/332939.sHtML"
+    },
+{
+      "platform": "1981年韩先楚回乡探亲，与乡亲们交谈后，拿起电话：传我的命令",
+      "share_url": "www.blog.ltkbj.cn/Article/details/916812.sHtML"
+    },
+{
+      "platform": "重大突破！朱雀三号遥二发射成功，我国首次实现火箭陆地回收",
+      "share_url": "www.blog.ltkbj.cn/Article/details/580272.sHtML"
+    },
+    {
+      "platform": "14年、罗马帝国开国皇帝奥古斯都逝世",
+      "share_url": "www.blog.ltkbj.cn/Article/details/112934.sHtML"
+    },
+{
+      "platform": "独家：宇树上市庆功宴上，王兴兴首次明确「大脑」的技术路线",
+      "share_url": "www.blog.ltkbj.cn/Article/details/590132.sHtML"
+    },
+{
+      "platform": "烤肉店回应店内不雅标语",
+      "share_url": "www.blog.ltkbj.cn/Article/details/988544.sHtML"
+    },
+{
+      "platform": "终于知道切特为什么打不过文班了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/610460.sHtML"
+    },
+{
+      "platform": "面试官：LLM 响应慢导致整个 Agent 链路超时，你说一下分层超时的熔断策略是什么？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/544207.sHtML"
+    },
+{
+      "platform": "司法部：如欧方一意孤行将坚决反制",
+      "share_url": "www.blog.ltkbj.cn/Article/details/876910.sHtML"
+    },
+{
+      "platform": "激发下沉市场活力 这几点值得期待",
+      "share_url": "www.blog.ltkbj.cn/Article/details/286860.sHtML"
+    },
+{
+      "platform": "劝大家还是老老实实买块装咖喱吧",
+      "share_url": "www.blog.ltkbj.cn/Article/details/747895.sHtML"
+    },
+{
+      "platform": "1662年、近代概率论的奠基者帕斯卡逝世",
+      "share_url": "www.blog.ltkbj.cn/Article/details/404366.sHtML"
+    },
+{
+      "platform": "阿里云，接得住中国智驾吗？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/063542.sHtML"
+    },
+    {
+      "platform": "A股回购H股增持，可孚医疗求变",
+      "share_url": "www.blog.ltkbj.cn/Article/details/451036.sHtML"
+    },
+{
+      "platform": "感觉周扬能处理罗子君家的事",
+      "share_url": "www.blog.ltkbj.cn/Article/details/410505.sHtML"
+    },
+{
+      "platform": "在自己买的小房子里，生活徐徐展开！",
+      "share_url": "www.blog.ltkbj.cn/Article/details/776333.sHtML"
+    },
+{
+      "platform": "仅有百股跌停，多达300多只上涨",
+      "share_url": "www.blog.ltkbj.cn/Article/details/960155.sHtML"
+    },
+{
+      "platform": "985大学开在县城 考进大山了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/539552.sHtML"
+    },
+{
+      "platform": "宝石老舅祝你七夕快乐",
+      "share_url": "www.blog.ltkbj.cn/Article/details/584402.sHtML"
+    },
+{
+      "platform": "程莉莎沉浸在郭晓东舞台里无法自拔",
+      "share_url": "www.blog.ltkbj.cn/Article/details/517936.sHtML"
+    },
+{
+      "platform": "封总，太太想跟你离婚很久了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/603320.sHtML"
+    },
+{
+      "platform": "A股全市场逾百股跌停",
+      "share_url": "www.blog.ltkbj.cn/Article/details/305700.sHtML"
+    },
+{
+      "platform": "男子立遗嘱财产给弟弟不给妻儿引纷争",
+      "share_url": "www.blog.ltkbj.cn/Article/details/646697.sHtML"
+    },
+    {
+      "platform": "台风沙德尔会抵达江浙沪吗",
+      "share_url": "www.blog.ltkbj.cn/Article/details/043188.sHtML"
+    },
+{
+      "platform": "李施嬅说朱一龙又一个影帝来了",
+      "share_url": "www.blog.ltkbj.cn/Article/details/136775.sHtML"
+    },
+{
+      "platform": "6万月薪云海观察员到期下山",
+      "share_url": "www.blog.ltkbj.cn/Article/details/687111.sHtML"
+    },
+{
+      "platform": "1819年、英国发明家詹姆斯·瓦特逝世",
+      "share_url": "www.blog.ltkbj.cn/Article/details/935095.sHtML"
+    },
+{
+      "platform": "ACM MM'26 | 浙大开源PhyEdit：单图编辑+精准3D物体操作",
+      "share_url": "www.blog.ltkbj.cn/Article/details/098991.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness轻松破了GitHub记录，它能引发一场什么革命？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/192369.sHtML"
+    },
+{
+      "platform": "韩国外长谈特朗普突然施压的两大目的",
+      "share_url": "www.blog.ltkbj.cn/Article/details/493974.sHtML"
+    },
+{
+      "platform": "汽车被树根包裹多年漆面完整",
+      "share_url": "www.blog.ltkbj.cn/Article/details/401224.sHtML"
+    },
+{
+      "platform": "两部门再拨6000万元支持河南防汛抢险救灾；国家防总、应急部增调物资支持新疆抗旱",
+      "share_url": "www.blog.ltkbj.cn/Article/details/580211.sHtML"
+    },
+{
+      "platform": "IT早报 0819：雷军官宣小米新一代玄戒芯片将至；魏建军称长城 36 年来没造过速成车；多人因编造 AI 车祸假视频被罚；入职奖 8800 元，富士康备战 iPhone 18...",
+      "share_url": "www.blog.ltkbj.cn/Article/details/237727.sHtML"
+    },
+    {
+      "platform": "图片抠图去背景工具v1.0",
+      "share_url": "www.blog.ltkbj.cn/Article/details/501599.sHtML"
+    },
+{
+      "platform": "极空间部署Stirling PDF：搭建自托管PDF工具箱并实现远程访问",
+      "share_url": "www.blog.ltkbj.cn/Article/details/372380.sHtML"
+    },
+{
+      "platform": "中国气象局启动暴雨四级应急响应",
+      "share_url": "www.blog.ltkbj.cn/Article/details/488341.sHtML"
+    },
+{
+      "platform": "为什么呀？老登股都跌那么惨？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/347124.sHtML"
+    },
+{
+      "platform": "给 DeepSeek Harness 装一个任务面板：DSH Task Board 快速上手",
+      "share_url": "www.blog.ltkbj.cn/Article/details/955564.sHtML"
+    },
+{
+      "platform": "Claude Code 权限弹窗太烦？官方终于动手了。。。",
+      "share_url": "www.blog.ltkbj.cn/Article/details/029949.sHtML"
+    },
+{
+      "platform": "我是周星驰影迷，看到很多人说沈腾已经超越了周星驰，这个观点我并不反对。江山代有才人出，各领风骚数百年，没有人能够永远是第一，周星驰有过自己的光辉岁月这就够了。而且中国的电影历史不太可能绕开他不谈的。",
+      "share_url": "www.blog.ltkbj.cn/Article/details/395838.sHtML"
+    },
+{
+      "platform": "如果比较邪恶程度，苏联和美国那个，更甚？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/581154.sHtML"
+    },
+{
+      "platform": "永鼎股份 2026 年半年度归母净利润 5.03 亿元，同比增长 58.06%",
+      "share_url": "www.blog.ltkbj.cn/Article/details/107172.sHtML"
+    },
+{
+      "platform": "大西洋上的星河璀璨",
+      "share_url": "www.blog.ltkbj.cn/Article/details/418094.sHtML"
+    },
+    {
+      "platform": "中方回应马来西亚总理涉台表态",
+      "share_url": "www.blog.ltkbj.cn/Article/details/783205.sHtML"
+    },
+{
+      "platform": "科学家颜宁自评：我勉强算人才，王虹才是天才",
+      "share_url": "www.blog.ltkbj.cn/Article/details/008972.sHtML"
+    },
+{
+      "platform": "甲状腺不好常吃两种水果",
+      "share_url": "www.blog.ltkbj.cn/Article/details/165597.sHtML"
+    },
+{
+      "platform": "雷军打新宇树科技赚152亿",
+      "share_url": "www.blog.ltkbj.cn/Article/details/499979.sHtML"
+    },
+{
+      "platform": "【计算机网络 | 数据链路层3：MAC 地址是什么？它和 IP 地址有什么区别？】",
+      "share_url": "www.blog.ltkbj.cn/Article/details/042228.sHtML"
+    },
+{
+      "platform": "刘亦菲携爱犬登上时尚芭莎九月刊",
+      "share_url": "www.blog.ltkbj.cn/Article/details/238176.sHtML"
+    },
+{
+      "platform": "猪猪侠之英雄猪少年",
+      "share_url": "www.blog.ltkbj.cn/Article/details/185693.sHtML"
+    },
+{
+      "platform": "小说下载器 - 你的网文自由神器！",
+      "share_url": "www.blog.ltkbj.cn/Article/details/581046.sHtML"
+    },
+{
+      "platform": "北大数院发布菲尔兹奖得主王虹万字专访，有哪些内容值得关注？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/454238.sHtML"
+    },
+{
+      "platform": "六个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "share_url": "www.blog.ltkbj.cn/Article/details/582515.sHtML"
+    },
+    {
+      "platform": "中铁二局新运公司被住建部警告，1年内不得再次申请这项行政许可",
+      "share_url": "www.blog.ltkbj.cn/Article/details/029019.sHtML"
+    },
+{
+      "platform": "女排时隔11年冲击亚洲冠军",
+      "share_url": "www.blog.ltkbj.cn/Article/details/606613.sHtML"
+    },
+{
+      "platform": "微博 2026 财年上半年归母净利润 1.02 亿美元，同比下降 56.12%",
+      "share_url": "www.blog.ltkbj.cn/Article/details/227704.sHtML"
+    },
+{
+      "platform": "关于鸿蒙手机的日常体验，网上那些“劝退帖”到底还站不站得住脚？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/874374.sHtML"
+    },
+{
+      "platform": "工作5年我终于攒够了6位数存款",
+      "share_url": "www.blog.ltkbj.cn/Article/details/244039.sHtML"
+    },
+{
+      "platform": "72岁大爷杀死剧毒眼镜蛇，5分钟后离断蛇头突然“复仇”，毒牙狠狠刺入其掌心，大爷被紧急送医抢救！术后大爷说连做三天噩梦，蛇追着他咬",
+      "share_url": "www.blog.ltkbj.cn/Article/details/678004.sHtML"
+    },
+{
+      "platform": "日网友：上空也封锁了，这样就进不来了。",
+      "share_url": "www.blog.ltkbj.cn/Article/details/523454.sHtML"
+    },
+{
+      "platform": "现实中遇到这种人能躲就躲…",
+      "share_url": "www.blog.ltkbj.cn/Article/details/506163.sHtML"
+    },
+{
+      "platform": "鸿蒙组件化设计横空出世",
+      "share_url": "www.blog.ltkbj.cn/Article/details/179107.sHtML"
+    },
+{
+      "platform": "敕令搜典(一款Everything插件）瞬间菜鸟成为元婴级大能",
+      "share_url": "www.blog.ltkbj.cn/Article/details/313072.sHtML"
+    },
+    {
+      "platform": "《功夫女足》票房23亿，算是周星驰的滑铁卢吗？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/901393.sHtML"
+    },
+{
+      "platform": "这个39岁的日本阿姨，说话一套一套的！",
+      "share_url": "www.blog.ltkbj.cn/Article/details/463821.sHtML"
+    },
+{
+      "platform": "河南洪水退鱼群聚集",
+      "share_url": "www.blog.ltkbj.cn/Article/details/413995.sHtML"
+    },
+{
+      "platform": "升学宴就是陋习，为何很多省份都搞这个？",
+      "share_url": "www.blog.ltkbj.cn/Article/details/473454.sHtML"
+    },
+{
+      "platform": "女子突然“多”出个老公",
+      "share_url": "www.blog.ltkbj.cn/Article/details/466341.sHtML"
+    },
+{
+      "platform": "独臂少年刘宸瑞，考入清华",
+      "share_url": "www.blog.ltkbj.cn/Article/details/913311.sHtML"
+    },
+{
+      "platform": "杭州一地铁站广告被吐槽“像朝乘客竖中指”，工作人员回应：广告在上刊前都有报备，会审核排查相关情况",
+      "share_url": "www.blog.ltkbj.cn/Article/details/961557.sHtML"
+    },
+{
+      "platform": "申通老板娘前夫撤诉，2.8亿元离婚“旧账”画上句号！",
+      "share_url": "www.blog.ltkbj.cn/Article/details/257138.sHtML"
+    },
+{
+      "platform": "【七夕快乐】「跟你住」，“想搬进你心里，其它烦心的都不考虑”（cover：孙盛希）",
+      "share_url": "www.blog.ltkbj.cn/Article/details/877823.sHtML"
+    },
+{
+      "platform": "美国长期国债收益率为什么持续新高",
+      "share_url": "www.blog.ltkbj.cn/Article/details/612472.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+https://github.com/garciacheryl49/vqlyk/blob/main/20260824Vzh7L.json</br>https://github.com/davislisa3/wiqrdj/blob/main/20260824rEYGe.json</br>https://github.com/guzmanmichael396/awpzukt/blob/main/20260824h7K3P.json</br>https://github.com/arnoldjennifer8/atbvssvg/blob/main/202608246LeI4.json</br>https://github.com/morriswilliam1/oduwsgmj/blob/main/20260824mpxQX.json</br>
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+https://github.com/thomasmiguel0595/ghqgp/blob/main/20260824M4e80.json</br>https://github.com/guzmanmichael396/awpzukt/blob/main/20260824sy6il.json</br>https://github.com/clarkemaria9/plfeglt/blob/main/20260824unWBu.json</br>https://github.com/lucasdaniel0797/eqgtmx/blob/main/20260824p0bx9.json</br>https://github.com/parkeramy72/opedzy/blob/main/20260824UkN05.json</br>
+<hr></hr><br>
+<p>*报告生成时间：2026年08月25日04时05分50秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
